@@ -1,1 +1,7 @@
 C:\Users\Zan\Desktop\GitBase\Git_tutorial\Git_tutorial\bin\Debug\Git_tutorial.exe.config
+C:\Users\Zan\Desktop\GitBase\Homework_2\Git_tutorial\Git_tutorial\bin\Debug\Git_tutorial.exe.config
+C:\Users\Zan\Desktop\GitBase\Homework_2\Git_tutorial\Git_tutorial\bin\Debug\Git_tutorial.exe
+C:\Users\Zan\Desktop\GitBase\Homework_2\Git_tutorial\Git_tutorial\bin\Debug\Git_tutorial.pdb
+C:\Users\Zan\Desktop\GitBase\Homework_2\Git_tutorial\Git_tutorial\obj\Debug\Git_tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Zan\Desktop\GitBase\Homework_2\Git_tutorial\Git_tutorial\obj\Debug\Git_tutorial.exe
+C:\Users\Zan\Desktop\GitBase\Homework_2\Git_tutorial\Git_tutorial\obj\Debug\Git_tutorial.pdb
