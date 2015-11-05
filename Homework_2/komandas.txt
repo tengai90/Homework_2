@@ -1,0 +1,4 @@
+1) git config user.name (user.email example@ex.lv)
+2) git init *path
+3) --
+4) 
