@@ -1,4 +1,12 @@
 1) git config user.name (user.email example@ex.lv)
 2) git init *path
-3) --
-4) 
+3) --Visual Studio 2013 Working...
+4) git add -A ; git commit -m "Task 4"
+5) git add -A ; git commit -m "Task 5"
+6) git add -A ; git commit -m "Task 6 documentation" 
+7) git checkout 6f0074e (version code) 
+8) git checkout -b multiply
+9) git add -A ; git commit -m "Task 9"
+10) git add -A ; git commit -m "Task 10"
+11) git checkout master
+12) 
