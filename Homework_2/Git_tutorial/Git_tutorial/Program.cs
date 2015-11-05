@@ -18,9 +18,12 @@ namespace Git_tutorial
             int int_x = int.Parse(x);
             int int_y = int.Parse(y);
 
-            Console.WriteLine("Multiply: "+(int_x*int_y));
+            for (int i = 0; i < (int_x + int_y); i++)
+            {
+                Console.WriteLine(i+1 + ") *");
+            }
 
-            Console.ReadLine();
+                Console.ReadLine();
         }
     }
 }
