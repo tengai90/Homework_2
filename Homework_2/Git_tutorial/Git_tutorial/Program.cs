@@ -17,9 +17,17 @@ namespace Git_tutorial
 
             int int_x = int.Parse(x);
             int int_y = int.Parse(y);
+<<<<<<< HEAD
             Console.WriteLine("Sum (type2): "+(int_x+int_y));
+=======
+>>>>>>> multiply
 
-            Console.ReadLine();
+            for (int i = 0; i < (int_x + int_y); i++)
+            {
+                Console.WriteLine(i+1 + ") *");
+            }
+
+                Console.ReadLine();
         }
     }
 }

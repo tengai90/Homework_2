@@ -9,4 +9,5 @@
 9) git add -A ; git commit -m "Task 9"
 10) git add -A ; git commit -m "Task 10"
 11) git checkout master
-12) 
+12) git add -A ; git commit -m "Task 12"
+13) git checkout master ; git merge multiply
