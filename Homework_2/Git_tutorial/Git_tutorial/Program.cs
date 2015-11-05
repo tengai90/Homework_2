@@ -15,7 +15,10 @@ namespace Git_tutorial
             Console.WriteLine("Enter y: ");
             string y = Console.ReadLine();
 
-            Console.WriteLine("x: " + x + "  y: " + y);
+            int int_x = int.Parse(x);
+            int int_y = int.Parse(y);
+
+            Console.WriteLine("Multiply: "+(int_x*int_y));
 
             Console.ReadLine();
         }
